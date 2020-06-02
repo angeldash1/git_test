@@ -1,0 +1,34 @@
+body {
+    background-color: pink;
+    margin: 0;
+    text-align:center;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+h1 {
+    margin: 0 auto 0 auto;
+    width: 10%;
+    font-family: 'Pacifico', cursive;
+    font-size: 500%;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+
+}
+
+
+.cloud-top {
+    position: absolute;
+    right: 30%;
+    top: 10%;
+}
+.cloud-bot {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
