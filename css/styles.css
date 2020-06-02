@@ -1,0 +1,121 @@
+body {
+    
+    margin: 0;
+    text-align:center;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+ hr {
+     border-style: dotted;
+     border-top: none;
+     border-width: 10px;
+     width: 5%;
+     border-color: grey;
+     margin: 40px auto 40px auto;
+
+ }
+
+h1 {
+    margin: auto;
+    width: 50%;
+    font-family: "Pacifico";
+    font-size: 300%;
+    margin-top: 50px;
+    text-align: center;
+   
+    
+}
+
+.topp {
+    font-size: 20px;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    background-color: #a6e3e9;
+    color: #ffe6eb;
+
+}
+
+ .pretty-girl {
+     width: 25%;
+     border-radius: 50%;
+ }
+
+.cloud-top {
+    position: absolute;
+    right: 25%;
+    top: 10%;
+}
+.cloud-bot {
+    position: absolute;
+    top: 40%;
+    left: 25%;
+}
+
+  .middle-container {
+      padding-top:100px;
+      margin-bottom: 100px;
+  }
+
+ .skill-row {
+     width:50%;
+     margin: 100px auto 100px auto;
+     text-align: left;
+     line-height: 2;
+ }
+
+  .code {
+      width: 25%;
+      float: left;
+      margin-right: 30px;
+  }
+
+  .chili {
+      width: 25%;
+      float: right;
+  }
+
+  .contact-me {
+      margin-top: 100px;
+  }
+
+  .bottom-container {
+    background-color: #a6e3e9;
+    padding: 50px
+    
+      
+  }
+
+  .copyright {
+      margin-bottom: 0;
+  }
+
+  
+
+  .myButton {
+      box-shadow: 0px 0px 0px 0px #3dc21b;
+      background-color:#a6e3e9;
+      border-radius:28px;
+      border:1px solid #a6e3e9;
+      display:inline-block;
+      cursor:pointer;
+      color:black;
+      font-family:;
+      font-size:15px;
+      font-weight:bold;
+      padding:16px 31px;
+      text-decoration:none;
+      text-shadow:0px 1px 0px #2f6627;
+  }
+  .myButton:hover {
+      background-color:#a6e3e9;
+  }
+  .myButton:active {
+      position:relative;
+      top:1px;
+  }
